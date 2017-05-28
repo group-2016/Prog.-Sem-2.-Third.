@@ -4,7 +4,7 @@
 2017 год.
 """
 
-import math
+from math import sqrt
 
 """
 Класс вектора на плоскости.
